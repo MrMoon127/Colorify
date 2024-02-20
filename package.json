@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/MrMoon127/Colorify/issues"
   },
-  "homepage": "https://github.com/MrMoon127/Colorify#readme"
+  "homepage": "https://github.com/MrMoon127/Colorify#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
